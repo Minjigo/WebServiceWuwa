@@ -1,0 +1,21 @@
+.body{
+    height: 100%;
+}
+
+.app{
+    height: 100%;
+    background-image: url('../img/backgroup-img-min.jpg');
+}
+
+.header{
+    width: 100%;
+    height: 10rem;
+}
+
+.main{
+    height: 40.5rem;
+}
+
+.footer{
+    height: 10rem;
+}
